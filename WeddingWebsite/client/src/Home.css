@@ -1,0 +1,54 @@
+body {
+  background-color: #f8f4f0; /* Soft ivory background for an elegant feel */
+  font-family: "Playfair Display", serif; /* Elegant and sophisticated font */
+  color: #5a5a5a; /* Subtle gray for better readability */
+  text-align: center;
+}
+
+h1 {
+  color: #b76e79; /* Romantic rose gold/pink shade */
+  font-family: "Great Vibes", cursive; /* A flowing, elegant script */
+  font-size: 3rem; /* Adjusted for better balance */
+}
+
+p {
+  color: #6d4c41; /* Warm, soft brown for a classic touch */
+  font-family: "Lora", serif; /* A timeless and readable serif font */
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white;
+  color: black;
+  border: 2px solid #808000;
+}
+
+.button1:hover {
+  background-color: #808000;
+  color: white;
+}
+
+.button2 {
+  background-color: white;
+  color: black;
+  border: 2px solid #5F9EA0;
+}
+
+.button2:hover {
+  background-color: #5F9EA0;
+  color: white;
+}
