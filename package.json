@@ -1,0 +1,27 @@
+{
+  "name": "weddingwebsite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cole Dirnbeck <coledirnbeck1@gmail.com> (https://github.com/ColeDirnbeck)",
+  "license": "MIT",
+  "description": "Wedding website for Bri and Owen",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColeDirnbeck/WeddingWebsite.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ColeDirnbeck/WeddingWebsite/issues"
+  },
+  "homepage": "https://github.com/ColeDirnbeck/WeddingWebsite#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4",
+    "react": "^19.0.0",
+    "react-router-dom": "^7.0.2"
+  }
+}
